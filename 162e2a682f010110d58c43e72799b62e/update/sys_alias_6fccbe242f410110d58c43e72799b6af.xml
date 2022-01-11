@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_720228_ipinfospo.IPInfo_Alias</id>
+        <multiple_connections>false</multiple_connections>
+        <name>IPInfo Alias</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>jaquinap8</sys_created_by>
+        <sys_created_on>2022-01-11 15:48:09</sys_created_on>
+        <sys_id>6fccbe242f410110d58c43e72799b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_720228_ipinfospo.IPInfo_Alias</sys_name>
+        <sys_package display_value="IPInfoSpoke" source="x_720228_ipinfospo">162e2a682f010110d58c43e72799b62e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfoSpoke">162e2a682f010110d58c43e72799b62e</sys_scope>
+        <sys_update_name>sys_alias_6fccbe242f410110d58c43e72799b6af</sys_update_name>
+        <sys_updated_by>jaquinap8</sys_updated_by>
+        <sys_updated_on>2022-01-11 15:48:09</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
